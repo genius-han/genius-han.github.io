@@ -1,6 +1,6 @@
 #!/bin/sh
-PATH_MAKERSS=/volume1/
-PATH_GIT=/volume1/
+PATH_MAKERSS=/home/pi/User/makerss
+PATH_GIT=/home/pi/User/git/genius-han.github.io/
 
 cd $PATH_MAKERSS
 python makerss_main.py
