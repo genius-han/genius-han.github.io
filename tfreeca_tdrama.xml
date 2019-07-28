@@ -201,17 +201,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>수상한 장모.E46.190724.720p-NEXT</showrss:showname>
 		</item>
-		<item>
-			<title>60일 지정생존자.E08.190723.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:0985AF4D2F56679F1C91013542B7C2E1DE52BA65</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>60일 지정생존자.E08.190723.720p-NEXT</showrss:showname>
-		</item>
-		<item>
-			<title>퍼퓸 31-32회 합본.E16.190723.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:572F4E54BF58AF3C02E101929F973B80056E4B8E</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>퍼퓸 31-32회 합본.E16.190723.720p-NEXT</showrss:showname>
-		</item>
 	</channel>
 </rss>
