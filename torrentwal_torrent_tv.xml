@@ -4,6 +4,12 @@
 		<link></link>
 		<description></description>
 		<item>
+			<title>호텔 델루나</title>
+			<link>magnet:?xt=urn:btih:4EE68883F2AFA3EC6BA9A096998EBE3783C8441B</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>호텔 델루나</showrss:showname>
+		</item>
+		<item>
 			<title>미스터 기간제.E16.190905.720p NEXT.mp4</title>
 			<link>magnet:?xt=urn:btih:C4CA37781DB3E4D72C716B4B8E66ADA670A5AF4F</link>
 			<showrss:showid></showrss:showid>
@@ -176,12 +182,6 @@
 			<link>magnet:?xt=urn:btih:7D95DEFFA3411DDB15AC55169ED59EF598B5C88B</link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname>열여덟의 순간.E14.190903.720p NEXT.mp4</showrss:showname>
-		</item>
-		<item>
-			<title>위대한 쇼.E04.190903.720p NEXT.mp4</title>
-			<link>magnet:?xt=urn:btih:8F8CDD5B79C84E778FF8833D8244F345A8DFBFB1</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>위대한 쇼.E04.190903.720p NEXT.mp4</showrss:showname>
 		</item>
 	</channel>
 </rss>
