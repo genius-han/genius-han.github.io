@@ -4,6 +4,12 @@
 		<link></link>
 		<description></description>
 		<item>
+			<title>연예인이 산다</title>
+			<link>magnet:?xt=urn:btih:FE0B1091488C9591995ACED98D4995F4F5380BB0</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>연예인이 산다</showrss:showname>
+		</item>
+		<item>
 			<title>M COUNTDOWN.E636.190926.1080p NEXT.mp4</title>
 			<link>magnet:?xt=urn:btih:7AA70214A895FF2056123E6E568C85B14F8BB31B</link>
 			<showrss:showid></showrss:showid>
@@ -176,12 +182,6 @@
 			<link>magnet:?xt=urn:btih:902AED93F2FD07A43EDD718DC42B2D89E5C37ADC</link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname>백종원의 골목식당.E85.190925.720p NEXT.mp4</showrss:showname>
-		</item>
-		<item>
-			<title>TMI NEWS.E15.190925.720p NEXT.mp4</title>
-			<link>magnet:?xt=urn:btih:3CF0A20032C2C95EC9A8A1729CDACB231F76219A</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>TMI NEWS.E15.190925.720p NEXT.mp4</showrss:showname>
 		</item>
 	</channel>
 </rss>
