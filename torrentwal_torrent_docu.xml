@@ -22,6 +22,12 @@
 			<showrss:showname>2TV 생생정보.E1115.191008.720p NEXT.mp4</showrss:showname>
 		</item>
 		<item>
+			<title>jtbc 뉴스룸191008.mp4</title>
+			<link>magnet:?xt=urn:btih:D81B9FADB549D3018CC2B28C33E903918566BA20</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>jtbc 뉴스룸191008.mp4</showrss:showname>
+		</item>
+		<item>
 			<title>세계견문록 아틀라스.191008.세계의 폭포 앙헬 폭포.720p.mp4</title>
 			<link>magnet:?xt=urn:btih:FA18271B3BE4B0907B13D3485E768D769E7DFC86</link>
 			<showrss:showid></showrss:showid>
@@ -170,6 +176,12 @@
 			<link>magnet:?xt=urn:btih:574AEC5194C21127D664CB15D062B2C8AA1A26E3</link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname>그것이 알고 싶다.E1185.191005.악마의 얼굴 화성연쇄살인사건 2부.720p NEXT.mp4</showrss:showname>
+		</item>
+		<item>
+			<title>발견의 기쁨 동네책방 191004.720p.mp4</title>
+			<link>magnet:?xt=urn:btih:DB8E043A12396CDC1BF3F68A203C37ED58912B9B</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>발견의 기쁨 동네책방 191004.720p.mp4</showrss:showname>
 		</item>
 	</channel>
 </rss>
