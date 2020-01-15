@@ -10,18 +10,6 @@
 			<showrss:showname>낭만닥터 김사부 2.E04.200114.1080p ISSUE.mp4</showrss:showname>
 		</item>
 		<item>
-			<title>블랙독.E10.200114.1080p NEXT.mp4</title>
-			<link>magnet:?xt=urn:btih:E217B7B5EEDF76547F1B502B3460C864F6DD39B8</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>블랙독.E10.200114.1080p NEXT.mp4</showrss:showname>
-		</item>
-		<item>
-			<title>검사내전.E08.200114.1080p NEXT.mp4</title>
-			<link>magnet:?xt=urn:btih:E9FBA28E633C4A5202242040AF2991BED861767B</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>검사내전.E08.200114.1080p NEXT.mp4</showrss:showname>
-		</item>
-		<item>
 			<title>검사내전.E08.200114.1080p ISSUE.mp4</title>
 			<link>magnet:?xt=urn:btih:780771AF5800BAFEDC11747EB5C0B735FABC902C</link>
 			<showrss:showid></showrss:showid>
@@ -58,18 +46,6 @@
 			<showrss:showname>꽃길만 걸어요.E56.200114.1080p ISSUE.mp4</showrss:showname>
 		</item>
 		<item>
-			<title>꽃길만 걸어요.E56.200114.720p NEXT.mp4</title>
-			<link>magnet:?xt=urn:btih:CFE22E0CFDE142DF4EFF7558CFDE4931ADE1D31C</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>꽃길만 걸어요.E56.200114.720p NEXT.mp4</showrss:showname>
-		</item>
-		<item>
-			<title>우아한 모녀.E51.200114.1080p NEXT.mp4</title>
-			<link>magnet:?xt=urn:btih:C508BF1FF2B0E856AF059F5E9017A77A0A0FBEB3</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>우아한 모녀.E51.200114.1080p NEXT.mp4</showrss:showname>
-		</item>
-		<item>
 			<title>우아한 모녀.E51.200114.1080p ISSUE.mp4</title>
 			<link>magnet:?xt=urn:btih:2D3D3F95B3B5F851379369B15393E2B81A97E350</link>
 			<showrss:showid></showrss:showid>
@@ -104,6 +80,12 @@
 			<link>magnet:?xt=urn:btih:825E858BD6834D0C53C7857E1B6744B02F5935BA</link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname>맛 좀 보실래요.E46.200114.1080p ISSUE.mp4</showrss:showname>
+		</item>
+		<item>
+			<title>블랙독.E09.200113.1080p NEXT.mp4</title>
+			<link>magnet:?xt=urn:btih:614316ED5EAB9082086D8A7CE3E66413029151AE</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>블랙독.E09.200113.1080p NEXT.mp4</showrss:showname>
 		</item>
 		<item>
 			<title>검사내전.E07.200113.1080p NEXT.mp4</title>
@@ -170,6 +152,12 @@
 			<link>magnet:?xt=urn:btih:1AB053D56C0BA7C627EC8B30AC0F2743965C1E9E</link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname>우아한 모녀.E50.200113.720p NEXT.mp4</showrss:showname>
+		</item>
+		<item>
+			<title>맛 좀 보실래요.E45.200113.720p NEXT.mp4</title>
+			<link>magnet:?xt=urn:btih:42C5E9A78FD6E17F0308B48F6FF1B9574672FDC3</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>맛 좀 보실래요.E45.200113.720p NEXT.mp4</showrss:showname>
 		</item>
 	</channel>
 </rss>
