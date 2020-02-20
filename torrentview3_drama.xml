@@ -4,12 +4,6 @@
 		<link></link>
 		<description></description>
 		<item>
-			<title>[방영중] 내기맨 E.01,200129 1080p</title>
-			<link>magnet:?xt=urn:btih:602e4f48f8a869904346c66482d33968ea91a1bb</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>[방영중] 내기맨 E.01,200129 1080p</showrss:showname>
-		</item>
-		<item>
 			<title>[방영중] 머니게임.E11.200219.720p-NEXT</title>
 			<link>magnet:?xt=urn:btih:b3bf3bdd50a2757af3bdc876742cc326ae0d7acf</link>
 			<showrss:showid></showrss:showid>
@@ -68,6 +62,12 @@
 			<link>magnet:?xt=urn:btih:da11e5d6cbdd48358b7b7e1059d0f9479414a9e6</link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname>[방영중] 절대쌍교 E10-E18 绝代双骄 2020.1080p.KOR.FHDRip.H264.AAC</showrss:showname>
+		</item>
+		<item>
+			<title>[방영중] 맛 좀 보실래요.E72.200219.720p-NEXT</title>
+			<link>magnet:?xt=urn:btih:53edd7cab965401e04b0ae5d3bd4e5a00623f345</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>[방영중] 맛 좀 보실래요.E72.200219.720p-NEXT</showrss:showname>
 		</item>
 	</channel>
 </rss>
