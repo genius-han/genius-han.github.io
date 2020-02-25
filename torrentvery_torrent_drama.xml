@@ -99,17 +99,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>나쁜사랑.E61.200225.720p-NEXT</showrss:showname>
 		</item>
-		<item>
-			<title>맛 좀 보실래요.E76.200225.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:71CD682423A2769BF7BFF292A09A0B5354CBE32B</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>맛 좀 보실래요.E76.200225.720p-NEXT</showrss:showname>
-		</item>
-		<item>
-			<title>맛 좀 보실래요.E76.200225.1080p-ISSUE</title>
-			<link>magnet:?xt=urn:btih:E3B8226F81BA9DF90C13210E15A9BEF7C88A76E9</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>맛 좀 보실래요.E76.200225.1080p-ISSUE</showrss:showname>
-		</item>
 	</channel>
 </rss>
