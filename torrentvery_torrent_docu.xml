@@ -4,6 +4,12 @@
 		<link></link>
 		<description></description>
 		<item>
+			<title>특집 JTBC 뉴스룸.200302.720p</title>
+			<link>magnet:?xt=urn:btih:FAF6211918BE20BF434D0B15D7448DCD73E3CE04</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>특집 JTBC 뉴스룸.200302.720p</showrss:showname>
+		</item>
+		<item>
 			<title>6시 내고향.E6985.200302.720p-NEXT</title>
 			<link>magnet:?xt=urn:btih:7F665D2B93C69EBBE8CE141137D17544256B635F</link>
 			<showrss:showid></showrss:showid>
@@ -116,12 +122,6 @@
 			<link>magnet:?xt=urn:btih:04CADDC3B95F8B09A3674D5ACF4BFD17621D6584</link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname>알맹이.E62.200301.720p-NEXT.mp4</showrss:showname>
-		</item>
-		<item>
-			<title>다큐 플러스.200301.720p-NEXT.mp4</title>
-			<link>magnet:?xt=urn:btih:649C376A4194B1257424D27ACE7C90B65C5526FA</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>다큐 플러스.200301.720p-NEXT.mp4</showrss:showname>
 		</item>
 	</channel>
 </rss>
