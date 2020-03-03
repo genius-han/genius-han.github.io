@@ -117,5 +117,11 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>tvn 방법.E07.200302.H264.720p</showrss:showname>
 		</item>
+		<item>
+			<title>아무도 모른다.E01.200302.720p-NEXT</title>
+			<link>magnet:?xt=urn:btih:53F3E0EAFBCEEC7C3FA739C20EDD92A6CB0D1823</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>아무도 모른다.E01.200302.720p-NEXT</showrss:showname>
+		</item>
 	</channel>
 </rss>
