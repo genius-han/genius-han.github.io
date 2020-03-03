@@ -4,6 +4,12 @@
 		<link></link>
 		<description></description>
 		<item>
+			<title>MBC 뉴스데스크.200303.720p</title>
+			<link>magnet:?xt=urn:btih:0279E49156D4AC1C3BA4000EA860240687AB96F4</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>MBC 뉴스데스크.200303.720p</showrss:showname>
+		</item>
+		<item>
 			<title>특집 JTBC 뉴스룸.200303.720p</title>
 			<link>magnet:?xt=urn:btih:ADD8B8FEC1AF66823979A28AF503F06952CBDC62</link>
 			<showrss:showid></showrss:showid>
@@ -116,12 +122,6 @@
 			<link>magnet:?xt=urn:btih:F63FF2A0346DD2CF92D77CA38FF895CD4D29BEFF</link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname>MBC 뉴스데스크.200302.720p.생활치료센터 개소.경증환자 치료 전담</showrss:showname>
-		</item>
-		<item>
-			<title>인간극장.E4768.200302.720p-NEXT.mp4</title>
-			<link>magnet:?xt=urn:btih:C937703E0D4CBF3370CEFB1D7D120833B4DA6E99</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>인간극장.E4768.200302.720p-NEXT.mp4</showrss:showname>
 		</item>
 	</channel>
 </rss>
