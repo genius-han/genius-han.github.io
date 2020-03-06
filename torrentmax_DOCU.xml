@@ -57,11 +57,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>무한리필 샐러드.E133.200305.720p-NEXT</showrss:showname>
 		</item>
-		<item>
-			<title>특집 JTBC 뉴스룸.200304.720p.H264</title>
-			<link>magnet:?xt=urn:btih:f0e8b25343e00653ad9a0fe8ad26cd79da954967</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>특집 JTBC 뉴스룸.200304.720p.H264</showrss:showname>
-		</item>
 	</channel>
 </rss>
