@@ -63,17 +63,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>특집 JTBC 뉴스룸.200304.720p.H264</showrss:showname>
 		</item>
-		<item>
-			<title>TV 정보쇼 알짜왕.E160.200305.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:42171cc617ef0b6a67046a2b413b356fc1bd0202</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>TV 정보쇼 알짜왕.E160.200305.720p-NEXT</showrss:showname>
-		</item>
-		<item>
-			<title>더 라이브.E84.200304.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:8551e4b395fff713714cb569078bd3b230fb9e91</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>더 라이브.E84.200304.720p-NEXT</showrss:showname>
-		</item>
 	</channel>
 </rss>
