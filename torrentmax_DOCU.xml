@@ -63,17 +63,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>리틀빅히어로-더 챌린저.E178.200420.720p-NEXT</showrss:showname>
 		</item>
-		<item>
-			<title>2TV 생생정보.E1250.200420.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:b76aec48ed78e64b0560fe161e3da305b2a1ed0f</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>2TV 생생정보.E1250.200420.720p-NEXT</showrss:showname>
-		</item>
-		<item>
-			<title>인간극장.E4803.200420.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:efefa03ed0bd566112c8f5d2068bbfd596a163ce</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>인간극장.E4803.200420.720p-NEXT</showrss:showname>
-		</item>
 	</channel>
 </rss>

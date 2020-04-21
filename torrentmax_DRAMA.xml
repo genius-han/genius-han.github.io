@@ -81,17 +81,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>[직공/자석] 날씨가 좋으면 찾아가겠어요.E15.200420.720p-NEXT</showrss:showname>
 		</item>
-		<item>
-			<title>반의반.E09.200420.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:764e07f53a24b0ba54878cfad195946b21c63b8c</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>반의반.E09.200420.720p-NEXT</showrss:showname>
-		</item>
-		<item>
-			<title>[직공/자석] 반의반.E09.200420.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:ba49d40701cebf0061f1cd265672b26f80977ec2</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>[직공/자석] 반의반.E09.200420.720p-NEXT</showrss:showname>
-		</item>
 	</channel>
 </rss>
