@@ -16,12 +16,6 @@
 			<showrss:showname>슬기로운 의사생활 E08.200430.720p.WEB-DL.x264.AAC-Deresisi</showrss:showname>
 		</item>
 		<item>
-			<title>메모리스트 E16.END.200430.1080p.WEB-DL.x264.AAC-Deresisi</title>
-			<link>magnet:?xt=urn:btih:504AE0C4E5D065420AE783D4CE884420DD11726C</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>메모리스트 E16.END.200430.1080p.WEB-DL.x264.AAC-Deresisi</showrss:showname>
-		</item>
-		<item>
 			<title>맛 좀 보실래요.E124.END.200501.720p-NEXT.mp4</title>
 			<link>magnet:?xt=urn:btih:D460D11C6FC6848787FFE6F1B3D25428299DCB76</link>
 			<showrss:showid></showrss:showid>
@@ -122,6 +116,12 @@
 			<link>magnet:?xt=urn:btih:F6355229B701EFF5B596C790707C069B9D9FB89D</link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname>메모리스트.S01E15.1080p.HDTV.x265-0utlaw</showrss:showname>
+		</item>
+		<item>
+			<title>메모리스트.E15.200429.1080p-NEXT</title>
+			<link>magnet:?xt=urn:btih:F9E0C625E1B7C4092218E1A96F85C5AE7998FF02</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>메모리스트.E15.200429.1080p-NEXT</showrss:showname>
 		</item>
 	</channel>
 </rss>
